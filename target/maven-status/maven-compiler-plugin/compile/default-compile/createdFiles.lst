@@ -1,0 +1,4 @@
+com\ota\exam\notes_api\Note.class
+com\ota\exam\notes_api\NoteService.class
+com\ota\exam\notes_api\NoteController.class
+com\ota\exam\notes_api\NotesApiApplication.class
