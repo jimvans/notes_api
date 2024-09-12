@@ -13,3 +13,5 @@ Steps to run:
  5. Open browser then navigate -> http://localhost:8080/hello (Hello World! message should show)
  6. Open Postman then import OTA Exam postman generated script
  7. Try all Postman request
+
+P.S. I trie to implement swagger for the solution so it will be easy to test but unfortunately I can't make it work.
